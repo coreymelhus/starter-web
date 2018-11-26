@@ -6,5 +6,9 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
-## Stuff
+## Things
 More stuff in the readme
+
+## Now we test our merge/diff tools
+New lines
+New lines

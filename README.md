@@ -15,3 +15,6 @@ More stuff in the readme. Lorum Ipsum etc etc
 New lines
 New lines
 Lorum Ipsum ABC123
+
+## Copyright
+2018 Corey Melhus

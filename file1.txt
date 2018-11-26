@@ -1,0 +1,6 @@
+Testing VimDiff functionality
+Line 2 should be the same
+Line 3 will be different: abcdef
+Line 4 the same
+Line 4 different: abcdef
+etc.

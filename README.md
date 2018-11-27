@@ -12,7 +12,7 @@ Here is a new line for us to look at with diff/merge tools.
 More stuff in the readme. Lorum Ipsum etc etc
 
 ## Now we test our merge/diff tools
-New lines
+New lines 123
 New lines
 Lorum Ipsum ABC123
 Another new line

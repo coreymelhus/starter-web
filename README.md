@@ -5,6 +5,8 @@ Maybe we can figure out this diff/merge stuff.
 
 ## Purpose
 
+This change is on newfeature branch
+
 Sample website with plenty of files for demos. Bleh.
 Here is a new line for us to look at with diff/merge tools.
 

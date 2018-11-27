@@ -10,6 +10,6 @@
     Thanks to my teacher
 
 # TECHNOLOGY COLOPHON
-
+    SQL, C#
     HTML5, CSS3
     jQuery, Modernizr

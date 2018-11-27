@@ -10,6 +10,7 @@ This change is on newfeature branch
 Sample website with plenty of files for demos. Bleh.
 Here is a new line for us to look at with diff/merge tools.
 
+Here is some more edits
 ## Stuff
 More stuff in the readme. Lorum Ipsum etc etc
 

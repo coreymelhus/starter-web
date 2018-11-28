@@ -8,6 +8,7 @@
 # THANKS
 
     Thanks to my teacher
+    And my mother
 
 # TECHNOLOGY COLOPHON
     SQL, C#
